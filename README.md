@@ -1,8 +1,9 @@
 # Learn-shell
 Shell scripting topics
 
-Shell Topics
-Variables
-Letters
-Helloo welcome to shell scripting
-.
+Welcome to Shell scripting
+
+1
+2
+3
+4
