@@ -7,3 +7,4 @@ Welcome to Shell scripting
 1.Variables
 2.topics
 3.shell
+4.functions
