@@ -3,7 +3,7 @@ Shell scripting topics
 
 Welcome to Shell scripting
 
-1
-2
-3
-4
+...text
+1.Variables
+2.topics
+3.shell
