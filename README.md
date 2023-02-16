@@ -2,4 +2,6 @@
 Shell scripting topics
 
 Shell Topics
-Heelo welcome to shell scripting
+Variables
+Letters
+Helloo welcome to shell scripting
