@@ -1,5 +1,5 @@
 #Hello world
-date
-time
-uname -a
-uname -r
+#ls
+ls
+ls- l
+ls -l /opt
